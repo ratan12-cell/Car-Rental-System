@@ -1,6 +1,3 @@
-Here is a **fully formatted and copy-paste-ready `README.md`** file you can use directly in your GitHub project for the **Car Rental System using Java Swing**:
-
----
 
 ```markdown
 # 🚗 Car Rental System – Java Swing Application
