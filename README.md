@@ -64,7 +64,7 @@ CarRentalSystem/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/CarRentalSystem.git
+   git clone https://github.com/ratan12-cell/Car-Rental-System.git
    cd CarRentalSystem
 ````
 
